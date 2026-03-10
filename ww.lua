@@ -1,7 +1,7 @@
 local Settings = {
     -- Masukkan URL Webhook Anda di bawah ini
-    WebhookUrl_Fish = "https://discord.com/api/webhooks/1476758299801026742/Ef0hUwbxLuLIx8bkYHytpREd5ObgDWbKURHoaJHEtqQ4SVb4TtKtaSyuPBgZ7-aIfs9G",
-    WebhookUrl_Leave = "https://discord.com/api/webhooks/1466426909507452952/w-q6Wgvm3l2ByDuwDR1Qy30QgEYdf8HpwpIgeWCY1Em5iCtSVeSd4DAdPEy27OwOVLQv",
+    WebhookUrl_Fish = "https://discord.com/api/webhooks/1480744652104798330/NZTA0og1NHW2qvHeqNpq881QCwkoJzP9ORpuJmEtSiieSS-qz5ewT2433R1hNJU2_zFS",
+    WebhookUrl_Leave = "https://discord.com/api/webhooks/1480803601092710611/byvCnSIpyrSsudelZxahi72gETwHImk76Eah-V3rtVhb_K351zRlQ2WWXlGDFhBDnHzk",
     
     -- Konfigurasi Pengingat (Otomatis Aktif)
     AutoClickEnabled = true,
@@ -399,6 +399,7 @@ if getgenv then
         print("XAL: Stopped Headless Script")
     end
 end
+
 
 
 
